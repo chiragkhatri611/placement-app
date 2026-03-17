@@ -24,12 +24,6 @@
 ## 📖 Overview
 
 =======
-## 🚀 Live Demo
-
-🔗 [https://your-app-name.netlify.app](https://your-app-name.netlify.app)
-
----
-
 ## 📌 Table of Contents
 
 - [Overview](#overview)
