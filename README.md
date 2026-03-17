@@ -10,6 +10,12 @@ GROQ_API_KEY=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
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [https://placeauto.netlify.app/](https://placeauto.netlify.app/)
+
+---
+
 ## 📌 Table of Contents
 
 - [Overview](#overview)
@@ -28,26 +34,6 @@ GROQ_API_KEY=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
 
 ## 📖 Overview
 
-=======
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Database Schema](#database-schema)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Running Locally](#running-locally)
-- [Deployment](#deployment)
-- [Environment Variables](#environment-variables)
-- [AI Models Used](#ai-models-used)
-- [Screenshots](#screenshots)
-
----
-
-## 📖 Overview
-
->>>>>>> b7be46e (remove deno.lock)
 PlaceAuto eliminates manual HR effort in campus placements by automating:
 - Student registration with PDF resume upload
 - AI-based resume parsing (CGPA + Skills extracted automatically)
@@ -227,7 +213,7 @@ Shortlisted / Not Shortlisted / Ineligible labels assigned
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/placement-app.git
+git clone https://github.com/chiragkhatri611/placement-app.git
 cd placement-app
 ```
 
@@ -238,7 +224,7 @@ npm install
 
 ### 3. Create `.env` file in project root
 ```env
-VITE_SUPABASE_URL=https://your-project-id.supabase.co
+VITE_SUPABASE_URL=https://rlwameuubawmvbdphiqy.supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-public-key
 GROQ_API_KEY=your-groq-api-key
 ```
@@ -403,8 +389,4 @@ Change this anytime in **Supabase → Table Editor → criteria → admin_passwo
 
 ---
 
-<<<<<<< HEAD
 Built with ❤️ for Hackathon — Campus Placement Automation
-=======
-Built with ❤️ for Hackathon — Campus Placement Automation
->>>>>>> b7be46e (remove deno.lock)
