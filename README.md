@@ -4,6 +4,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📌 Table of Contents
 
 - [Overview](#overview)
@@ -22,6 +23,32 @@
 
 ## 📖 Overview
 
+=======
+## 🚀 Live Demo
+
+🔗 [https://your-app-name.netlify.app](https://your-app-name.netlify.app)
+
+---
+
+## 📌 Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Database Schema](#database-schema)
+- [Project Structure](#project-structure)
+- [How It Works](#how-it-works)
+- [Running Locally](#running-locally)
+- [Deployment](#deployment)
+- [Environment Variables](#environment-variables)
+- [AI Models Used](#ai-models-used)
+- [Screenshots](#screenshots)
+
+---
+
+## 📖 Overview
+
+>>>>>>> b7be46e (remove deno.lock)
 PlaceAuto eliminates manual HR effort in campus placements by automating:
 - Student registration with PDF resume upload
 - AI-based resume parsing (CGPA + Skills extracted automatically)
@@ -377,4 +404,8 @@ Change this anytime in **Supabase → Table Editor → criteria → admin_passwo
 
 ---
 
+<<<<<<< HEAD
 Built with ❤️ for Hackathon — Campus Placement Automation
+=======
+Built with ❤️ for Hackathon — Campus Placement Automation
+>>>>>>> b7be46e (remove deno.lock)
