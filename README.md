@@ -3,8 +3,13 @@
 > An AI-powered web application that automates the end-to-end campus placement process — from student registration to intelligent shortlisting — built for a hackathon in under 2 hours.
 
 ---
+.env file
+VITE_SUPABASE_URL=https://rlwameuubawmvbdphiqy.supabase.co
+VITE_SUPABASE_ANON_KEY=sb_publishable_AYSlQQY8tz54EFBdHHZAeg_t3wg3nQ_
+GROQ_API_KEY=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
 
-<<<<<<< HEAD
+---
+
 ## 📌 Table of Contents
 
 - [Overview](#overview)
